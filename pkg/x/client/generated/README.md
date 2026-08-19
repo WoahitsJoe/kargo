@@ -289,6 +289,8 @@ Class | Method | HTTP request | Description
  - [PromotionPolicy](docs/PromotionPolicy.md)
  - [PromotionPolicySelector](docs/PromotionPolicySelector.md)
  - [PromotionReference](docs/PromotionReference.md)
+ - [PromotionRequestPhase](docs/PromotionRequestPhase.md)
+ - [PromotionRequestReference](docs/PromotionRequestReference.md)
  - [PromotionSpec](docs/PromotionSpec.md)
  - [PromotionStatus](docs/PromotionStatus.md)
  - [PromotionStep](docs/PromotionStep.md)
